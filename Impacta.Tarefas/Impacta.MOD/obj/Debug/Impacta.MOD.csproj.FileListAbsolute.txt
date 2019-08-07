@@ -1,0 +1,21 @@
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\Users\Familia\Desktop\Aula 9 03_agosto\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
